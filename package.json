@@ -1,0 +1,17 @@
+{
+  "name": "async-guard",
+  "version": "1.0.0",
+  "description": "Protect your async operations from hammering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "callbacks",
+    "async",
+    "guard",
+    "safe"
+  ],
+  "author": "Ron Korving <rkorving@wizcorp.jp>",
+  "license": "MIT"
+}
