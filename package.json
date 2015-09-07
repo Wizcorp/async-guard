@@ -13,5 +13,9 @@
     "safe"
   ],
   "author": "Ron Korving <rkorving@wizcorp.jp>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wizcorp/async-guard"
+  },
   "license": "MIT"
 }
